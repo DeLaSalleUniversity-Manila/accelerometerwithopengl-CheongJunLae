@@ -1,0 +1,4 @@
+See file:///D:/Android/AndroidStudioProjects/Sensor-Graph1/app/build/tmp/linkMipsDebugAllSensorgraphSharedLibrary/output.txt for all output for linkMipsDebugAllSensorgraphSharedLibrary.
+linking libsensorgraph.so successful.
+
+Finished linkMipsDebugAllSensorgraphSharedLibrary, see full log file:///D:/Android/AndroidStudioProjects/Sensor-Graph1/app/build/tmp/linkMipsDebugAllSensorgraphSharedLibrary/output.txt.

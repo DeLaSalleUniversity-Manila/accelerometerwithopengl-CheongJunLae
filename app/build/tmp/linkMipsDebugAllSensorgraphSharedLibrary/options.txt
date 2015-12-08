@@ -1,0 +1,17 @@
+-shared
+-Wl,-soname,libsensorgraph.so
+-o
+D:\\Android\\AndroidStudioProjects\\Sensor-Graph1\\app\\build\\intermediates\\binaries\\debug\\all\\obj\\mips\\libsensorgraph.so
+D:\\Android\\AndroidStudioProjects\\Sensor-Graph1\\app\\build\\intermediates\\objectFiles\\mipsDebugAllSensorgraphSharedLibrary\\sensorgraphMainCpp\\8xcrwugngqxgmky8xw0actias\\sensorgraph.o
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=D:\\Android\\android-ndk-r10e/platforms/android-21/arch-mips
+-Wl,--build-id
+-LD:\\Android\\android-ndk-r10e\\sources\\cxx-stl\\llvm-libc++\\libs\\mips
+-lc++_static
+-no-canonical-prefixes
+-llog
+-lGLESv2
+-landroid

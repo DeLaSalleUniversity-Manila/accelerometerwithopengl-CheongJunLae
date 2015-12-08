@@ -1,0 +1,4 @@
+See file:///D:/Android/AndroidStudioProjects/Sensor-Graph1/app/build/tmp/compileX86_64DebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt for all output for compileX86_64DebugAllSensorgraphSharedLibrarySensorgraphMainCpp.
+compiling sensorgraph.cpp successful.
+
+Finished compileX86_64DebugAllSensorgraphSharedLibrarySensorgraphMainCpp, see full log file:///D:/Android/AndroidStudioProjects/Sensor-Graph1/app/build/tmp/compileX86_64DebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt.
